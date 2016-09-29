@@ -9,6 +9,7 @@ public class MavenTestController {
 	@RequestMapping(path="/")
 	public String getIndexPage()
 	{
+		//Test Comment
 		return "index.html";
 	}
 	
