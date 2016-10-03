@@ -10,7 +10,7 @@ public class MavenTestController {
 	public String getIndexPage()
 	{
 		//Test Comment
-		//Test Comment
+		
 		return "index.html";
 	}
 	
